@@ -1,1 +1,1 @@
-# JogoDaVelha
+# JogoDaVelhaMinimaxGO
