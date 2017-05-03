@@ -1,6 +1,6 @@
-﻿using JogoDaVelha.Enums;
+﻿using JogoDaVelha.Domain.Enums;
 
-namespace JogoDaVelha
+namespace JogoDaVelha.Domain
 {
     public class Jogada
     {

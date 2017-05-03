@@ -1,4 +1,4 @@
-﻿namespace JogoDaVelha.Enums
+﻿namespace JogoDaVelha.Domain.Enums
 {
     public enum Posicao
     {

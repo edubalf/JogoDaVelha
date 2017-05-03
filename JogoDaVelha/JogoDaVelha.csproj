@@ -9,4 +9,8 @@
     <PackageReference Include="ElemarJR.FunctionalCSharp" Version="1.0.6" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\JogoDaVelha.Domain\JogoDaVelha.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JogoDaVelha", "JogoDaVelha\JogoDaVelha.csproj", "{32FB3501-35B1-4D03-86D8-4507984CF701}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JogoDaVelha", "JogoDaVelha\JogoDaVelha.csproj", "{32FB3501-35B1-4D03-86D8-4507984CF701}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JogoDaVelha.Test", "JogoDaVelha.Test\JogoDaVelha.Test.csproj", "{ED5646BA-56C9-4302-A254-2EA3354ADA4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JogoDaVelha.Domain", "JogoDaVelha.Domain\JogoDaVelha.Domain.csproj", "{E8DCE5A7-F33C-4C93-B2D4-C29807ADF3B1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{32FB3501-35B1-4D03-86D8-4507984CF701}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32FB3501-35B1-4D03-86D8-4507984CF701}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32FB3501-35B1-4D03-86D8-4507984CF701}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED5646BA-56C9-4302-A254-2EA3354ADA4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED5646BA-56C9-4302-A254-2EA3354ADA4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED5646BA-56C9-4302-A254-2EA3354ADA4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED5646BA-56C9-4302-A254-2EA3354ADA4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8DCE5A7-F33C-4C93-B2D4-C29807ADF3B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8DCE5A7-F33C-4C93-B2D4-C29807ADF3B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8DCE5A7-F33C-4C93-B2D4-C29807ADF3B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8DCE5A7-F33C-4C93-B2D4-C29807ADF3B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
